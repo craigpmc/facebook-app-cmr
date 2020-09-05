@@ -1,0 +1,23 @@
+{
+  "name": "facebook-app",
+  "version": "1.0.0",
+  "description": "utilizing the facebook sdk to manage our business page and marketing api",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/craigpmc/facebook-app-cmr.git"
+  },
+  "keywords": [
+    "facebook",
+    "sdk"
+  ],
+  "author": "Craig Rubino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/craigpmc/facebook-app-cmr/issues"
+  },
+  "homepage": "https://github.com/craigpmc/facebook-app-cmr#readme"
+}
